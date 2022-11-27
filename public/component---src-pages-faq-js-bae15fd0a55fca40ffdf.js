@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkzeroloss=self.webpackChunkzeroloss||[]).push([[329],{90749:function(e,l,n){n.r(l);var t=n(67294);l.default=function(){return t.createElement("div",null,t.createElement("p",null,"faq Page!"))}}}]);
+//# sourceMappingURL=component---src-pages-faq-js-bae15fd0a55fca40ffdf.js.map
